@@ -17,3 +17,10 @@ git config --global user.name "Your Name"
 $ git commit -m "Hello"  to commit filename
 git log                  to see logs
 git add .          
+
+
+
+
+when u send code to servris called push
+when u retrieve code from server its called pull
+and whrn u first time copy code on new PC its called Clone
