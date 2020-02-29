@@ -1,0 +1,11 @@
+Unix command
+pwd - prsent working directory 
+
+Git command
+l                     is long list
+a                     shows hidden folder
+.                     means current folder
+..                    means parent folder
+git init              initializes repository
+git status            shows staus of the files that are not tracked
+git add <filename>    adds file for tracking
