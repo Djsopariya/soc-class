@@ -24,3 +24,6 @@ git add .
 when u send code to servris called push
 when u retrieve code from server its called pull
 and whrn u first time copy code on new PC its called Clone
+
+
+If u do not have pc then make edits in github from web and then pull data in Vs code
