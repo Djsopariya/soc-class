@@ -9,3 +9,10 @@ a                     shows hidden folder
 git init              initializes repository
 git status            shows staus of the files that are not tracked
 git add <filename>    adds file for tracking
+
+
+git config --global user.email "you@example.com"  to set identity
+git config --global user.name "Your Name"
+
+$ git commit -m "Hello"  to commit filename
+git log                  to see logs
