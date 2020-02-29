@@ -16,3 +16,4 @@ git config --global user.name "Your Name"
 
 $ git commit -m "Hello"  to commit filename
 git log                  to see logs
+git add .          
